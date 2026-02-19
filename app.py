@@ -172,3 +172,4 @@ with col2:
     st.metric("Volatility", f"{port_vols[min_vol_idx]*100:.2f}%")
 
 st.caption("© 2026 Dynamic Efficient Frontier Lab. All synthetic data. No internet required.")
+
