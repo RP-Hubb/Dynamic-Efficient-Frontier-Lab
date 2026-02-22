@@ -173,3 +173,4 @@ with col2:
 
 st.caption("© 2026 Dynamic Efficient Frontier Lab. All synthetic data. No internet required.")
 
+
